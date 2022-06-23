@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reaper47i or just Vineet
 - 👀 I’m interested in Web Development, Automation using Python
-- 🌱 I’m currently learning Django framework for python.  
+- 🌱 I’m currently learning Java and Web-Dev using Java.  
 - 💞️ I’m looking to collaborate on Automation Projects and App development projects
 - 📫 How to reach me twitter - @vineet_bhengra
  
