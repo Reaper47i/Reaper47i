@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Reaper47i or just Vineet
-- 👀 I’m interested in Web Development, Automation using Python
-- 🌱 I’m currently learning Java and Web-Dev using Java.  
-- 💞️ I’m looking to collaborate on Automation Projects and App development projects
+- 👀 I’m interested in Web Development, FrontEnd Development.
+- 🌱 I’m currently learning Node.js and Rust for enhancing my knowledge of backend.  
+- 💞️ I’m looking to collaborate on Web and App development projects
 - 📫 How to reach me twitter - @vineet_bhengra
  
 
